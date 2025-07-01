@@ -4,7 +4,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/harish-krishnan-9594b1206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harish-krishnan-9594b1206" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/big-hash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="big-hash" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/Big_Hash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="big-hash" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
