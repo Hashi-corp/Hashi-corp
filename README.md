@@ -1,5 +1,5 @@
 # 💫 About Me:
-Developing smart data pipelines and full stack ML produccts
+An ECE engineer working on smart data pipelines and building full fledged ML products. Working on embedded system products as a hobbyist.
 
 
 ## 🌐 Socials:
