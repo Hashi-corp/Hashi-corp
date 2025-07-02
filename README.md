@@ -2,7 +2,7 @@
 An ECE engineer working on smart data pipelines and building full fledged ML products. Working on embedded system products as a hobbyist.
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harishkrishp@gmail.com) 
 
 # 💻 Tech Stack:
