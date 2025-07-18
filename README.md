@@ -1,5 +1,5 @@
 # 💫 About Me:
-An ECE engineer working on smart data pipelines and building full fledged ML products. Working on embedded system products as a hobbyist.
+An ECE engineer working on building smart data pipelines and full fledged ML products. Embedded system design is my side quest. 
 
 
 # 🌐 Socials:
