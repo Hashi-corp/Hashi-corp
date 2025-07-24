@@ -1,5 +1,5 @@
 # 💫 About Me:
-An ECE engineer working on building smart data pipelines and full fledged ML products. Embedded system design is my side quest. 
+An ECE engineer working on building smart data pipelines and full fledged ML products. Yes you read that right; an electronics engineer with ML products as his main quest. Worry not, I can swim through the AI abstractions while simultaneously debugging through low level programming. You've got the best of both worlds here! 
 
 
 # 🌐 Socials:
