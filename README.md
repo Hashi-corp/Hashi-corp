@@ -1,5 +1,5 @@
 # 💫 About Me:
-An ECE engineer working on building smart data pipelines and full fledged ML products. Yes you read that right, an electronics enthusiast with building full stack ML products as his main quest. Worry not, I can swim through pythonic abstractions while simultaneously debugging through low level programming. You've got the best of both worlds here! 
+An ECE engineer working on building smart data pipelines and full fledged ML products. I love to delve into pythonic abstractions while simultaneously debugging through low level programming. Got the best of both worlds here.
 
 
 # 🌐 Socials:
